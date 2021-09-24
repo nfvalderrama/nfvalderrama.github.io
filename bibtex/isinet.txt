@@ -1,0 +1,11 @@
+@InProceedings{isinet2020,
+author="Gonz{\'a}lez, Cristina
+and Bravo-S{\'a}nchez, Laura
+and Arbelaez, Pablo",
+title="ISINet: An Instance-Based Approach for Surgical Instrument Segmentation",
+booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2020",
+year="2020",
+publisher="Springer International Publishing",
+pages="595--605",
+isbn="978-3-030-59716-0"
+}
