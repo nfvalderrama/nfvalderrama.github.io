@@ -86,7 +86,7 @@ figure {
   position: fixed;
   overflow-y: scroll;
   z-index: 1001;
-  background: #E8E8E4;
+  background: #F8EDEB;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
@@ -357,7 +357,7 @@ body.offcanvas {
     -o-transform: translateX(0);
     transform: translateX(0);
     width: 300px;
-    background: #E8E8E4;
+    background: #F8EDEB;
     z-index: 999;
     position: fixed; }
   body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
@@ -499,7 +499,7 @@ body.offcanvas {
   content: "\e114"; }
 
 .panel-heading a.collapsed {
-  background: #E8E8E4;
+  background: #F8EDEB;
   border: 1px solid #e6e6e6 !important;
   color: #333333; }
 
@@ -531,7 +531,7 @@ body.offcanvas {
   position: absolute;
   display: block;
   width: 4px;
-  background: #E8E8E4;
+  background: #F8EDEB;
   top: 20px;
   bottom: 20px;
   margin-left: 29px; }
@@ -557,9 +557,9 @@ body.offcanvas {
   -ms-border-radius: 50%;
   border-radius: 50%;
   text-align: center;
-  -moz-box-shadow: 0 0 0 5px #E8E8E4;
-  -webkit-box-shadow: 0 0 0 5px #E8E8E4;
-  box-shadow: 0 0 0 5px #E8E8E4;
+  -moz-box-shadow: 0 0 0 5px #F8EDEB;
+  -webkit-box-shadow: 0 0 0 5px #F8EDEB;
+  box-shadow: 0 0 0 5px #F8EDEB;
   line-height: 40px;
   float: left; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon i {
@@ -580,7 +580,7 @@ body.offcanvas {
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
   position: relative;
-  background: #E8E8E4;
+  background: #F8EDEB;
   padding: 1.5em;
   margin-left: 60px;
   -webkit-background-clip: padding-box;
@@ -595,7 +595,7 @@ body.offcanvas {
   height: 0;
   border-style: solid;
   border-width: 9px 9px 9px 0;
-  border-color: transparent #E8E8E4 transparent transparent;
+  border-color: transparent #F8EDEB transparent transparent;
   left: 0;
   top: 10px;
   margin-left: -9px; }
@@ -743,7 +743,7 @@ body.offcanvas {
   height: 6px;
   -webkit-box-shadow: none;
   box-shadow: none;
-  background: #E8E8E4;
+  background: #F8EDEB;
   overflow: visible; }
 
 .progress-bar {
@@ -828,7 +828,7 @@ body.offcanvas {
     height: 100px;
     display: table;
     text-align: center;
-    background: #E8E8E4;
+    background: #F8EDEB;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
     -ms-border-radius: 2px;
@@ -1284,7 +1284,7 @@ body.offcanvas {
   box-shadow: none;
   background: transparent;
   border: transparent;
-  background: #E8E8E4;
+  background: #F8EDEB;
   height: 54px;
   font-size: 16px;
   font-weight: 400;
