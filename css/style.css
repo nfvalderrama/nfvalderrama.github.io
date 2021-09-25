@@ -16,7 +16,7 @@ body {
   font-weight: 400;
   font-size: 15px;
   line-height: 1.8;
-  color: rgba(253, 246, 240, 0.7); }
+  color: rgba(0, 0, 0, 0.7); }
   @media screen and (max-width: 992px) {
     body {
       font-size: 16px; } }
@@ -27,7 +27,7 @@ a {
   -o-transition: 0.5s;
   transition: 0.5s; }
   a:hover, a:active, a:focus {
-    color: #2c98f0;
+    color: #f5c6aa;
     outline: none;
     text-decoration: none !important; }
 
@@ -54,7 +54,7 @@ figure {
     font-size: 16px;
     width: 80%;
     margin: 20px auto 0px auto;
-    color: #b3b3b3;
+    color: #dad0c2;
     font-style: italic;
     font-family: "Quicksand", Arial, sans-serif; }
     @media screen and (max-width: 480px) {
