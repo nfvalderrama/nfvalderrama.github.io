@@ -500,13 +500,13 @@ body.offcanvas {
 
 .panel-heading a.collapsed {
   background: #f2f3f7;
-  border: 1px solid #FDF6F0 !important;
+  border: 1px solid #F5C6AA !important;
   color: #333333; }
 
 .panel-body {
   padding: 1.5em;
   margin-top: 5px;
-  border: 1px solid #FDF6F0 !important; }
+  border: 1px solid #F5C6AA !important; }
 
 .timeline-centered {
   position: relative;
@@ -531,7 +531,7 @@ body.offcanvas {
   position: absolute;
   display: block;
   width: 4px;
-  background: #f2f3f7;
+  background: #F5C6AA;
   top: 20px;
   bottom: 20px;
   margin-left: 29px; }
@@ -565,13 +565,13 @@ body.offcanvas {
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon i {
     color: #fff; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-2 {
-    background: #ec5453; }
+    background: #E1F2FB; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-3 {
-    background: #f9bf3f; }
+    background: #F1F9F9; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-4 {
-    background: #a84cb8; }
+    background: #F3DFE3; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-5 {
-    background: #2fa499; }
+    background: #E9B2BC; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-none {
     background: #fff;
     width: 20px;
@@ -580,7 +580,7 @@ body.offcanvas {
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
   position: relative;
-  background: #f2f3f7;
+  background: #FDF6F0;
   padding: 1.5em;
   margin-left: 60px;
   -webkit-background-clip: padding-box;
@@ -595,7 +595,7 @@ body.offcanvas {
   height: 0;
   border-style: solid;
   border-width: 9px 9px 9px 0;
-  border-color: transparent #f2f3f7 transparent transparent;
+  border-color: transparent #FDF6F0 transparent transparent;
   left: 0;
   top: 10px;
   margin-left: -9px; }
@@ -743,7 +743,7 @@ body.offcanvas {
   height: 6px;
   -webkit-box-shadow: none;
   box-shadow: none;
-  background: #f2f3f7;
+  background: #FDF6F0;
   overflow: visible; }
 
 .progress-bar {
@@ -768,7 +768,7 @@ body.offcanvas {
     width: 10px;
     height: 10px;
     content: '';
-    background: #2c98f0;
+    background: #FCD8D4;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
