@@ -500,13 +500,13 @@ body.offcanvas {
 
 .panel-heading a.collapsed {
   background: #f2f3f7;
-  border: 1px solid #e6e6e6 !important;
+  border: 1px solid #FDF6F0 !important;
   color: #333333; }
 
 .panel-body {
   padding: 1.5em;
   margin-top: 5px;
-  border: 1px solid #e6e6e6 !important; }
+  border: 1px solid #FDF6F0 !important; }
 
 .timeline-centered {
   position: relative;
