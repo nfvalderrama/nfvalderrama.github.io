@@ -1,0 +1,10 @@
+@article{ruiz2022predicting,
+  title={Predicting target--ligand interactions with graph convolutional networks for interpretable pharmaceutical discovery},
+  author={Ruiz Puentes, Paola and Rueda-Gensini, Laura and Valderrama, Natalia and Hern{\'a}ndez, Isabela and Gonz{\'a}lez, Cristina and Daza, Laura and Mu{\~n}oz-Camargo, Carolina and Cruz, Juan C and Arbel{\'a}ez, Pablo},
+  journal={Scientific reports},
+  volume={12},
+  number={1},
+  pages={1--17},
+  year={2022},
+  publisher={Nature Publishing Group}
+}
